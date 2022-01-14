@@ -42,7 +42,7 @@ require (
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/otiai10/copy v1.5.0
 	github.com/pelletier/go-toml v1.8.1 // indirect
-	github.com/pires/go-proxyproto v0.5.0
+	github.com/pires/go-proxyproto v0.6.0
 	github.com/pkg/sftp v1.13.0
 	github.com/prometheus/client_golang v1.10.0
 	github.com/prometheus/common v0.20.0 // indirect
